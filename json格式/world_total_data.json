@@ -1864,17 +1864,45 @@
         },
         {
             "id": "134",
-            "confirmedCount": "6114473",
+            "confirmedCount": "6114595",
             "confirmedIncr": "106645",
-            "curedCount": "2567653",
+            "curedCount": "2567694",
             "curedIncr": "73066",
-            "currentConfirmedCount": "3173598",
+            "currentConfirmedCount": "3173675",
             "currentConfirmedIncr": "28563",
             "dateId": "20200531",
-            "deadCount": "373222",
+            "deadCount": "373226",
             "deadIncr": "5016",
             "suspectedCount": "1756",
             "suspectedCountIncr": "16"
+        },
+        {
+            "id": "135",
+            "confirmedCount": "6203476",
+            "confirmedIncr": "88881",
+            "curedCount": "2616045",
+            "curedIncr": "48351",
+            "currentConfirmedCount": "3213333",
+            "currentConfirmedIncr": "39658",
+            "dateId": "20200601",
+            "deadCount": "374098",
+            "deadIncr": "872",
+            "suspectedCount": "1761",
+            "suspectedCountIncr": "5"
+        },
+        {
+            "id": "136",
+            "confirmedCount": "6336847",
+            "confirmedIncr": "133371",
+            "curedCount": "2717705",
+            "curedIncr": "101660",
+            "currentConfirmedCount": "3239434",
+            "currentConfirmedIncr": "26101",
+            "dateId": "20200602",
+            "deadCount": "379708",
+            "deadIncr": "5610",
+            "suspectedCount": "1762",
+            "suspectedCountIncr": "1"
         }
     ]
 }
