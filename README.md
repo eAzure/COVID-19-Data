@@ -9,6 +9,21 @@ COVID-19 Data | 新型冠状病毒疫情历史数据
 - countrydata 全球214个国家地区以及钻石公主号邮轮的疫情数据
 - world_total_data （新增）全球214个国家地区以及钻石公主号邮轮的每日累计数据
 
-最近更新时间：2020.06.02
+字段说明：
+
+- id：数据编号
+- confirmedCount：累计确诊
+- confirmedIncr：新增确诊
+- curedCount：累计治愈
+- curedIncr：新增治愈
+- currentConfirmedCount：现存确诊
+- currentConfirmedIncr：新增现存确诊
+- dateId：日期
+- deadCount：累计死亡
+- deadIncr：新增死亡
+- suspectedCount：累计疑似
+- suspectedCountIncr：新增疑似
+
+最近更新时间：2020.06.08
 
 致敬抗疫英雄！
