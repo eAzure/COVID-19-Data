@@ -24,6 +24,6 @@ COVID-19 Data | 新型冠状病毒疫情历史数据
 - suspectedCount：累计疑似
 - suspectedCountIncr：新增疑似
 
-最近更新时间：2020.06.08
+最近更新时间：2020.06.17
 
 致敬抗疫英雄！
