@@ -24,6 +24,8 @@ COVID-19 Data | 新型冠状病毒疫情历史数据
 - suspectedCount：累计疑似
 - suspectedCountIncr：新增疑似
 
-最近更新时间：2020.07.03
+最近更新时间：2020.07.02
 
 致敬抗疫英雄！
+
+本项目数据已停止更新，有关数据获取代码已开源，见[代码](https://github.com/eAzure/Code-For-COVID-19-Data "代码")
